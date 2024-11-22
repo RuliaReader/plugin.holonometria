@@ -1,0 +1,16 @@
+{
+  "name": "@rulia/holonometria",
+  "title": "Holonometria",
+  "description": "Read Hololive holonometria manga.",
+  "version": "<VERSION>",
+  "author": "LancerComet",
+  "tags": ["Holonometria", "Hololive", "Manga"],
+  "homepage": "https://github.com/RuliaReader/plugin.holonometria",
+  "requestedVersion": "0.20.0",
+  "userConfig": {
+    "language": {
+      "displayName": "Language",
+      "description": "Manga languages, available value: en / jp / id, default: en."
+    }
+  }
+}
