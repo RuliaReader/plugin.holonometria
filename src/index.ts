@@ -168,8 +168,8 @@ async function getChapterImageList (chapterUrl: string) {
       if (img) {
         result.push({
           url: img.src,
-          width: 100,
-          height: 120
+          width: 684,
+          height: 997
         })
       }
     })
