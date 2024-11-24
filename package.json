@@ -1,6 +1,6 @@
 {
   "name": "@rulia/holonometria",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Read mangas on Holonometria.",
   "private": true,
   "scripts": {
